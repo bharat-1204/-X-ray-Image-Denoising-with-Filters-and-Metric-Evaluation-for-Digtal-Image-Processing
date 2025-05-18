@@ -1,7 +1,10 @@
 # -X-ray-Image-Denoising-with-Filters-and-Metric-Evaluation-for-Digtal-Image-Processing
 This project demonstrates image denoising on a grayscale X-ray image affected by Salt-and-Pepper noise using various filtering techniques. It also evaluates the performance of each method using PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index Measure).
+
+
+
 📂 Project Overview
-•Load and normalize a grayscale X-ray image.
+Load and normalize a grayscale X-ray image.
 •Introduce salt-and-pepper noise artificially.
 •Apply four denoising techniques:
 •Median Filtering
@@ -10,6 +13,9 @@ This project demonstrates image denoising on a grayscale X-ray image affected by
 •Non-Local Means Denoising
 •Compare the effectiveness of each method using PSNR and SSIM metrics.
 •Display the results using matplotlib.
+
+
+
 
 📸 Sample Output
 •Visual comparison between the original, noisy, and restored images.
